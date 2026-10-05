@@ -67,8 +67,8 @@ section {
     padding: 0 10px 10px 0;
 }
 .sidebar {
-    flex: 0 0 200px;
-    padding: 20px 4%;
+    flex: 0 0 12.5%;
+    padding: 20px 40px;
     border: 5px solid purple;
     border-radius: 8px;
     margin-top: 70px;
